@@ -1,0 +1,15 @@
+{
+  "name": "nodeproj",
+  "version": "1.0.0",
+  "description": "My node application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atif",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "express": "^4.12.3"
+  }
+}
